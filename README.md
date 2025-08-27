@@ -187,6 +187,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## Contacto
 
-Mario - [@mariotw](https://twitter.com/mariotw) - mario@example.com
+Mario Castillo Sanhueza mariocastillosan@gmail.com
+Mi página [https://mcastillosan.online/]https://mcastillosan.online/
 
-Proyecto Link: [https://github.com/tu-usuario/sstext](https://github.com/tu-usuario/sstext)
+Proyecto Link: [https://github.com/MarioCastilloSan/stt/tree/demo?tab=readme-ov-file](https://github.com/MarioCastilloSan/stt/tree/demo?tab=readme-ov-file)
